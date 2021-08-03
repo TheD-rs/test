@@ -101,7 +101,7 @@ body {
   }
 }
 .logo {
-  background: url(../assets/svg/logo.svg) 0 48% no-repeat;
+  background: url(assets/svg/logo.svg) 0 48% no-repeat;
   display: flex;
   &__img {
     margin-right: 20px;
@@ -185,7 +185,7 @@ body {
 }
 
 .welcome {
-  background: url(../assets/img/background.jpg) right center / contain no-repeat;
+  background: url(assets/img/background.jpg) right center / contain no-repeat;
   background-position: calc(50% + 260px) calc(100%);
   // .welcome__block
   &__block {
@@ -796,7 +796,7 @@ label {
   }
   // .footer__logo
   &__logo {
-    background: url(../assets/svg/logo.svg) 0 7% no-repeat;
+    background: url(assets/svg/logo.svg) 0 7% no-repeat;
     margin-right: 145px;
   }
   &__text {
